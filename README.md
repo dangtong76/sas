@@ -30,7 +30,7 @@ Python 을 통해 Viya 플랫폼을 사용하기 위해서는 SWAT 라이브러�
 
 * SWAT 패키지 다운로드 및 설치
 
-* * 다운로드 사이트 :https://github.com/sassoftware/python-swat/releases
+* * 다운로드 사이트 :[https://github.com/sassoftware/python-swat/releases](https://github.com/sassoftware/python-swat/releases)
   * 다운로드 후 서버에 적당한 위치에 업로드후 설치합니다.
 
 ```
@@ -49,6 +49,10 @@ Python 을 통해 Viya 플랫폼을 사용하기 위해서는 SWAT 라이브러�
 /* 모든네트워크 인터페이스 에서 포트를 열고, 작업 디렉토리를 설정 */
 # jupyter notebook --ip=* --notebook-dir=/home/sas
 ```
+
+![](/assets/import.png)
+
+브라우저를 열어 http://172.27.64.161:8888/?token=6b79a7af8b66d907a6c66533a11c53e93e377e1e6d651d59  포트로 접속
 
 * 간단한 소스를 통해 확인하기
 
