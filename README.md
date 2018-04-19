@@ -29,8 +29,10 @@ Python 을 통해 Viya 플랫폼을 사용하기 위해서는 SWAT 라이브러�
 > numactl 은 SAS Viay의 CAS\(Cloud Analytic Server\) 서버와 바이너리 통신을 위해 필요한 라이브러리 입니다.
 
 * SWAT 패키지 다운로드 및 설치
-* * 다운로드 사이트 : [https://github.com/sassoftware/python-swat/releases](https://github.com/sassoftware/python-swat/releases)
-  * 다운로드 후 서버에 적당한 위치에 업로드후 설치합니다.
+
+       다운로드 사이트 : [https://github.com/sassoftware/python-swat/releases](https://github.com/sassoftware/python-swat/releases) 
+
+       다운로드 후 서버에 적당한 위치에 업로드후 설치합니다.
 
 ```
 # yum install python-swat-1.3.0-linux64.tar.gz
